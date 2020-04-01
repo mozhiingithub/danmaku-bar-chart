@@ -5,6 +5,3 @@
 go run danmaku-bar-chart.go https://www.bilibili.com/video/BVXXXXXXX
 ```
 运行后，程序会生成一个以视频实际cid命名的html文件，打开后即可看到弹幕数柱状图，还可将光标移至某一柱，查看对应时间。
-<p align="center">
-<img src="example.png" width="50%" height="50%" />
-</p>
